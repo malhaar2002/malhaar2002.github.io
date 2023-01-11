@@ -1313,3 +1313,10 @@ input[type="text"] {
 
 .js .animate-box {
   opacity: 0; }
+
+@media screen and (max-width: 768px) {
+  .about-pics {
+    display: none;
+    visibility: hidden;
+  }
+}
